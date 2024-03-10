@@ -3,6 +3,8 @@ Diwali Sales Analysis - an Exploratory Data Analysis Project in Python.
 METADATA : IDE - Jupyter Notebook Anaconda3 Environment
           No of Columns : 15 
           No Of Rows : 11252
+
+Libraries : Numpy, Pandas, Matplotlib.pyplot and Seaborn 
                     
 Objectives :
 1. Data Cleaning - checking the data throughly for null values and remove all null values from the table.
